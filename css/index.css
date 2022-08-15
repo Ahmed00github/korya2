@@ -1,0 +1,233 @@
+form{
+
+    margin-top: 30px;
+    margin-left: 350px;
+}
+.body1{
+    position: relative;
+    height:4500px;
+}
+.input1{
+    margin-left: 50px;
+}
+.width1{
+    width: 20%;
+   
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 344566778;
+}
+.listPadding{
+    padding-top: 25px;
+    list-style: none;
+}
+.parentList{
+    display: flex;
+    justify-content: space-between;
+}
+.tota{
+    padding-top: 30px;
+    padding-right: 10px;
+    font-size: 35;
+}
+.tota1{
+    padding-top: 270px;
+    padding-right: 10px;
+    font-size: 35;
+}
+.tota2{
+    padding-top: 230px;
+    padding-right: 10px;
+}
+.navbackground{
+
+background-image: linear-gradient(90deg,black 80%,white 20%);
+
+}
+.tota3{
+    padding-right: 10px;
+}
+.iconmargin{
+
+margin-top: 600px;
+margin-left: 20px;
+
+
+}
+
+.transform{
+
+    transition-duration: 1s;
+
+    transform: translateX(-80%)
+
+}
+
+
+#iconx{
+    cursor: pointer;
+}
+.display{
+    display: none;
+}
+#bars{
+    font-size: 35;
+    cursor: pointer;
+}
+.navbar100{
+transform: translateY(100%);
+}
+.cursor{
+    cursor: pointer;
+}
+.cursor:hover{
+    color: red;
+}
+.image1{
+    width: 350px;
+    height: 500px;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+
+.parent100{
+    margin-top: 50px;
+    
+}
+.margin100{
+ margin-top: 60px;
+    margin-left: 130px;
+
+}
+.regaxdisplay{
+    display: none;
+    height: 50px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 25;
+}
+.korya200{
+
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.width100{
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    width: 350px;
+    margin-left: 12px;
+    height: 0%;
+    transition: .8s ease;
+    background-color:rgba(240, 248, 255, 0.642)
+}
+
+.Hana:hover .width100{
+    top: 0;
+    height: 100%;
+}
+.padding500{
+padding-top: 80px;  
+font-size: 25;
+
+}
+.khaled1{
+    position: absolute;
+    top: 100px;
+    opacity: 0;
+
+}
+.khaled10{
+    position: absolute;
+    top: 15px;
+    transition-duration: 0.5s;
+    transition-delay: 0.3s;
+    opacity: 1;
+  
+}
+
+.khaled2{
+    position: absolute;
+    top: 150px;
+    opacity: 0;
+
+}
+.khaled20{
+    position: absolute;
+    top: 65px;
+    transition-duration: 0.7s;
+    transition-delay: 0.7s;
+    opacity: 1;
+  
+}
+.khaled3{
+    position: absolute;
+    top: 200px;
+   opacity: 0;
+
+}
+.khaled30{
+    position: absolute;
+    top: 115px;
+    transition-duration: 0.9s;
+    transition-delay: 1.1s;
+    opacity: 1;
+  
+  
+}
+.khaled4{
+    position: absolute;
+    top: 250px;
+    opacity: 0;
+
+}
+.khaled40{
+    position: absolute;
+    top: 165px;
+    transition-duration: 1.1s;
+    transition-delay: 1.5s;
+    opacity: 1;
+  
+}
+
+.khaled5{
+    position: absolute;
+    top: 300px;
+    opacity: 0;
+
+}
+.khaled50{
+    position: absolute;
+    top: 215px;
+    transition-duration: 1.3s;
+    transition-delay: 1.9s;
+  opacity: 1;
+  
+}
+
+.khaled6{
+    position: absolute;
+    top: 400px;
+    opacity: 0;
+
+}
+.khaled60{
+    position: absolute;
+    top: 265px;
+    transition-duration: 1.5s;
+    transition-delay: 2.4s;
+    opacity: 1;
+  
+  
+}
+a:hover{
+    color: red;
+}
